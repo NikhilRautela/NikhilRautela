@@ -28,31 +28,14 @@
 <!-- About Section -->
 ## 〔 About Me 〕
 
-```ts
-const nikhil: Developer = {
-  name:       "Nikhil Singh Rautela",
-  location:   "Haldwani, Uttarakhand, India 🇮🇳",
-  education:  "B.Tech CSE @ Graphic Era Hill University (2022–2026)",
-  cgpa:       8.05,
+👋 Hey! I'm **Nikhil**, a final-year Computer Science student from **Haldwani, Uttarakhand, India 🇮🇳**
 
-  currentFocus: [
-    "Building production-grade full-stack SaaS applications",
-    "Integrating LLM APIs into real-world products",
-    "Mastering scalable system design & DSA",
-  ],
-
-  techStack: {
-    languages:  ["C++", "Python", "JavaScript", "Java"],
-    frontend:   ["React.js", "Tailwind CSS", "HTML/CSS"],
-    backend:    ["Node.js", "Express.js", "Flask", "REST APIs"],
-    databases:  ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Prisma ORM"],
-    ai_ml:      ["LLM API Integration", "Scikit-learn", "TF-IDF", "Cosine Similarity"],
-    devops:     ["Git", "GitHub", "Vercel", "Render", "Firebase"],
-  },
-
-  openTo:     "Internships, Full-time Roles, OSS Collaborations",
-};
-```
+- 🎓 Pursuing **B.Tech CSE** at Graphic Era Hill University (2022–2026) · CGPA: **8.05 / 10**
+- 💻 Passionate about building **full-stack SaaS applications** and integrating **AI/LLM APIs** into real products
+- 🧠 Currently deepening my skills in **scalable system design** and **Data Structures & Algorithms**
+- 🚀 Experienced with the full product lifecycle — from design to **deployment on Vercel & Render**
+- 🤝 Open to **Internships**, **Full-time Roles**, and **Open Source Collaborations**
+- 📬 Reach me at **nikhilrautela32@gmail.com**
 
 ---
 
