@@ -4,6 +4,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=NikhilRautela&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%2F+LLM+API+Integrator+%F0%9F%A4%96;SaaS+Builder+%F0%9F%9B%A0%EF%B8%8F;Open+to+Internships+%26+Full-time+Roles+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
