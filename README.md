@@ -16,7 +16,7 @@
 
 ## 〔 About Me 〕
 
-👋 Hey! I'm **Nikhil**, a final-year Computer Science student from **Haldwani, Uttarakhand, India 🇮🇳**
+👋 Hey! I'm **Nikhil**, a Computer Science student from **Haldwani, Uttarakhand, India 🇮🇳**
 
 - 🎓 Pursuing **B.Tech CSE** at Graphic Era Hill University (2022–2026) · CGPA: **8.05 / 10**
 - 💻 Passionate about building **full-stack SaaS applications** and integrating **AI/LLM APIs** into real products
